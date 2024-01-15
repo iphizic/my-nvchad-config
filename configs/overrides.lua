@@ -43,7 +43,7 @@ M.mason_lspconfig = {
   ensure_installed = {
     "ansiblels",
     "bashls",
-    "pkgbuild_language_server",
+    "clangd",
     "dockerls",
     "docker_compose_language_service",
     "golangci_lint_ls",
